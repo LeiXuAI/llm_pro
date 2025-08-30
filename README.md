@@ -1,2 +1,2 @@
 # llm_pro
-This repository is a project based on llm
+This repository is a chatbot project based on LLM models in Finnish.
